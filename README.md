@@ -2,20 +2,6 @@
 
 An automated diagnostic system developed for **CSE 445: Machine Learning** at **North South University**. This project implements a multi-model approach to classify skin cancer from dermoscopic images into five distinct categories.
 
----
-
-## 🏛️ Academic Context
-* **Institution**: North South University (NSU)
-* **Department**: Department of Electrical and Computer Engineering
-* **Course**: CSE 445: Machine Learning (Section 6)
-* **Instructor**: Dr. Mohammad Mahmudul Alam
-* **Semester**: Fall 2025
-
-### Team Members
-* **Hasnat Karibul Islam** - NSU ID: 2211275042
-* **Mahin Ahmed** - NSU ID: 2211772042
-
----
 
 ## 🔬 Project Overview
 This project addresses the critical need for early skin cancer detection by targeting five specific types of lesions: Actinic Keratoses, Basal Cell Carcinoma, Benign Keratosis-like Lesions, Melanocytic Nevi, and Melanoma. We addressed severe class imbalance and high inter-class visual similarity using a rigorous data processing pipeline.
@@ -51,14 +37,25 @@ The models were evaluated on a test set of 1,253 images.
 | **Hybrid CNN-Transformer** | 92.58% | 0.9333 | 0.9258 | 0.9281 |
 | **Ensemble (Final)** | **~95.00%** | 0.9333 | 0.9258 | 0.9223 |
 
+
+
 ---
+
+
+### Team Members
+* **Hasnat Karibul Islam** - NSU ID: 2211275042
+* **Mahin Ahmed** - NSU ID: 2211772042
+
+---
+
 
 ## 🙏 Acknowledgments
 We express our sincere gratitude to our honorable faculty, **Dr. Mohammad Mahmudul Alam**, for providing the opportunity to work on this project and for his invaluable guidance throughout its development. 
 
 We also thank our project-mates for their collaborative efforts and dedication to building this robust skin cancer detection model.
 
----
+
+
 
 ## 🛠️ Tools & Libraries
 * **Language**: Python

@@ -50,6 +50,8 @@ The models were evaluated on a test set of 1,253 images.
 
 
 ## 🙏 Acknowledgments
+> **Course:** CSE 323: Operating Systems Design
+
 We express our sincere gratitude to our honorable faculty, **Dr. Mohammad Mahmudul Alam**, for providing the opportunity to work on this project and for his invaluable guidance throughout its development. 
 
 We also thank our project-mates for their collaborative efforts and dedication to building this robust skin cancer detection model.

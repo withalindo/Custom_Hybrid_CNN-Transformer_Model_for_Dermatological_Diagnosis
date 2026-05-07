@@ -12,7 +12,7 @@ This project addresses the critical need for early skin cancer detection by targ
 
 ### 1. Custom Hybrid CNN-Transformer
 * **Layers**: 69 layers with 12 million trainable parameters.
-* **Design**: Fuses Convolutional, Residual, and MBConv blocks with a Multi-head self-attention Transformer block at the bottleneck to capture global context.
+* **Design**: Fuses Convolutional, Residual, and MBConv blocks with a Multi-head self-attention Transformer block at the bottleneck to capture global context. 
 
 ### 2. ResNet152 (Transfer Learning)
 * **Layers**: 152 layers with ~795 million parameters (354 million trainable).
